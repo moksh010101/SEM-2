@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "SEM-2",
+			"path": "../../SEM-2"
+		},
+		{
+			"name": "SEM-2-1",
+			"path": "../../SEM-2-1"
+		}
+	],
+	"settings": {}
+}
